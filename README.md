@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aaliya Khan
 
-### Aspiring Android Developer | CSE(Ds) Student | Tech Enthusiast 🚀
+### Aspiring Android App Developer | CSE(Ds) Student | Tech Enthusiast 🚀
 
 ![Coding](https://c.tenor.com/LENeju0qxusAAAAC/hackerman.gif)
 
