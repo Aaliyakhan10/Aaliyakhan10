@@ -1,91 +1,24 @@
+# Hi 👋, I'm Aaliya Khan
 
-👩‍💻 Aaliya Khan | Android Developer | CSE Student | Tech Enthusiast 🚀
+### Aspiring Android Developer | CSE Student | Tech Enthusiast 🚀
 
-Welcome to my GitHub! I’m Aaliya Khan, a second-year Computer Science Engineering (CSE) student with a deep passion for Android app development, problem-solving, and innovative solutions. Always eager to expand 
+![Coding](https://th.bing.com/th/id/OIP.7IqVgmBGZAbEtPiZpdO50QHaGS?rs=1&pid=ImgDetMain)
 
-my skill set, I thrive on learning new technologies and bringing ideas to life through code.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaliya&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
 
+- 🌱 I’m currently learning **Android Development, Kotlin, Data Science**
+- 📫 How to reach me: **khanaaliyashamim786@gmail.com**
 
-🌟 About Me
-
-🏫 Current Role: 2nd Year CSE Student
-
-🎯 Focus: Android Development, Data Science, and Algorithms
-
-🎓 CGPA: 9.48 
-
-🌱 Learning: Data Science, Web Development, and new mobile technologies
-
-🌍 Location: Global
-
-🛠️ Skills
-
-Languages 💻
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaliya%20Khan-blue)](https://www.linkedin.com/in/aaliyakhan01/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aaliya%20Khan-black)](https://github.com/Aaliyakhan10)
 
 
+## Languages and Tools:
+![Kotlin](https://img.shields.io/badge/Kotlin-1.5.0-7f52ff)
+![Java](https://img.shields.io/badge/Java-16-ff7800)
+![C++](https://img.shields.io/badge/C++-11-00599C)
 
-Kotlin (Core Android Development)
-
-Java
-
-C
-
-C++
-
-JavaScript
-
-Android Development 📱
-
-Android SDK
-
-XML (UI/UX Design)
-
-Room Database (Local Data Storage)
-
-Firebase (Authentication, Realtime Database, Push Notifications)
-
-Retrofit (API Integration)
-
-Web Development 🌐
-
-HTML
-
-CSS
-
-JavaScript
-
-Tools & Technologies 🔧
-
-Android Studio
-
-Git & GitHub (Version Control)
-
-Postman (API Testing)
-
-Canva (UI Design)
-
-Firebase Console (Cloud Services)
-
-Other Skills 💡
-
-Problem Solving
-
-Data Structures & Algorithms
-
-Communication & Teamwork
-
-Project Management
-
-📸 Projects & Portfolio
-
-Feel free to explore my GitHub Repositories to dive deeper into my projects. Here’s a sneak peek:
-
-
-
-
-📍 Connect with Me
-Let's get in touch! Feel free to reach out via:
-
-LinkedIn: Aaliya Khan
-GitHub: Aaliya Khan's GitHub
-
+## Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliya&show_icons=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaliya&show_icons=true)
