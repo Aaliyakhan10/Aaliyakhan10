@@ -2,7 +2,7 @@
 
 ### Aspiring Android Developer | CSE Student | Tech Enthusiast 🚀
 
-![Coding](https://th.bing.com/th/id/OIP.7IqVgmBGZAbEtPiZpdO50QHaGS?rs=1&pid=ImgDetMain)
+![Coding](https://c.tenor.com/LENeju0qxusAAAAC/hackerman.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaliya&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
 
