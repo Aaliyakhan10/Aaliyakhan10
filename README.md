@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaliya&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliyakhan10&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
 
 - 🌱 I’m currently learning **Android App Development, Data Science**
 - 📫 How to reach me: **khanaaliyashamim786@gmail.com**
@@ -22,11 +22,20 @@
 ![C++](https://img.shields.io/badge/C++-11-00599C)
 
 ## Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliya&show_icons=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaliya&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyakhan10&show_icons=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true)
 
 
+### My Total Contributions
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true&count_private=true&hide=prs)
+
+### Longest Streak:  
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)
+
+### Current Streak:  
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)
 ---
 
 ## 📊 GitHub Stats & Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aaliya&theme=juicyfresh)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aaliyakhan10&theme=juicyfresh)
