@@ -23,15 +23,11 @@
 
 ## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyakhan10&show_icons=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true)
-
 
 ### My Total Contributions
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true&count_private=true&hide=prs)
 
-### Longest Streak:  
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)
 
 ### Current Streak:  
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)
