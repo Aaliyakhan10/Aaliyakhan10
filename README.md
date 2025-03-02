@@ -24,3 +24,9 @@
 ## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaliya&show_icons=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaliya&show_icons=true)
+
+
+---
+
+## 📊 GitHub Stats & Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aaliya&theme=juicyfresh)
