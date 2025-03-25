@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliyakhan10&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
 
 - 🌱 I’m learning **Android App Development, Data Science**
-- 🏸 Hobbies: Chess, Badminton, Cricket,Video and Photo Editing
 - 📫 How to reach me: **khanaaliyashamim786@gmail.com**
 
 ## Connect with me:
