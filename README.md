@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aaliya Khan
 
-### Android App Developer | CSE (Data Science) Student | Tech Enthusiast 🚀
+### Software Developer | CSE (Data Science) Student | Tech Enthusiast 🚀
 
 ![Coding](https://c.tenor.com/LENeju0qxusAAAAC/hackerman.gif)
 
@@ -68,8 +68,7 @@ I focus on building real-world mobile and web applications, emphasizing **UI des
 | Year       | Qualification                    | Institution                         |
 |------------|---------------------------------|-----------------------------------|
 | 2023–Present | B.E. Computer Science Engineering (Data Science specialization) | Lokmanya Tilak College of Engineering |
-| 2022       | HSC                             | KLE Society’s Science and Commerce College |
-| 2020       | SSC                             | The Elite Public School            |
+
 
 ---
 
@@ -90,11 +89,10 @@ I focus on building real-world mobile and web applications, emphasizing **UI des
 ---
 
 ## 📈 GitHub Stats & Trophies
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyakhan10&show_icons=true&layout=compact)  
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true&count_private=true&hide=prs)  
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aaliyakhan10&theme=juicyfresh)
+
 
 ---
 
