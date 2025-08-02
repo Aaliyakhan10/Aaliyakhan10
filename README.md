@@ -1,99 +1,104 @@
-# Hi 👋, I'm Aaliya Khan
+# 👋 Hi, I'm Aaliya Khan
 
 ### Software Developer | CSE (Data Science) Student | Tech Enthusiast 🚀
 
 ![Coding](https://c.tenor.com/LENeju0qxusAAAAC/hackerman.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliyakhan10&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aaliyakhan10&label=Profile%20views&color=0e75b6&style=flat" alt="aaliya" />
+</p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-I am a **Third-year B.E. Computer Science Engineering student** specializing in Data Science with a strong academic record (CGPA: 9.61).  
-Passionate about **Android development and full-stack engineering**, I have hands-on experience in Kotlin, Java, Spring Boot, Firebase, and MongoDB.
+I’m a **third-year Computer Science Engineering student** specializing in **Data Science** at Lokmanya Tilak College of Engineering, with a **CGPA of 9.61**.  
+I’m passionate about **Android development** and **full-stack engineering**, and love building real-world mobile and web applications with focus on clean UI, robust backend, and seamless integration.
 
-I focus on building real-world mobile and web applications, emphasizing **UI design**, **component integration**, and **mobile-first development** using Kotlin, Java, HTML, CSS, and JavaScript.
+Currently:
+- 📱 Developing production-level Android apps using Kotlin & Firebase  
+- 🌐 Building responsive web platforms with Spring Boot, MongoDB, React, and Tailwind CSS  
+- 👩‍💻 Solving LeetCode problems in Java  
+- 🎓 Technical Head, DSSA – LTCE | Campus Mantri, GFG Campus body – LTCE
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with Me
 
-- Email: aaliyakhan4352@gmail.com    
-- GitHub: [github.com/Aaliyakhan10](https://github.com/Aaliyakhan10)  
-- LinkedIn: [linkedin.com/in/aaliyakhan01](https://www.linkedin.com/in/aaliyakhan01/)
+- 📧 [aaliyakhan4352@gmail.com](mailto:aaliyakhan4352@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaliyakhan01/)    
+- 🧠 [LeetCode](https://leetcode.com/u/cY8tVXDbor/)  
+- 🔗 [Portfolio (Projects Drive)](https://drive.google.com/drive/folders/1cQO_x0pV0jg-QfBj2ekrI250y5qpLt89)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Projects
+## 💻 Notable Projects
 
-### AI-powered Single Page Portfolio Generator  
-- Users fill personal, professional, and project details via a simple form  
-- AI auto-generates a clean, professional portfolio layout  
-- One-click publish to host the portfolio online instantly  
-- Tech Stack: Kotlin, Firebase Realtime DB, Firebase Auth, Room
+### 🚀 [SiteSketch](https://drive.google.com/drive/folders/1cQO_x0pV0jg-QfBj2ekrI250y5qpLt89)
+AI-Powered Portfolio Generator  
+- Generates a full-fledged single-page portfolio from resume data  
+- Secure backend with JWT, OpenRouter API, MongoDB storage  
+- Built using Spring Boot (Kotlin), React, and Tailwind CSS
 
-### NoteHabit - Habit Tracker & Note-Taking App  
-- Combines daily note-taking with habit tracking  
-- Implements Firebase Auth for secure login  
-- Uses Firebase Realtime Database to sync habits and Room DB for offline storage  
-- Displays habit progress with dynamic pie charts  
-- Designed with a clean and intuitive UI
+### 📝 [NoteHabit](https://github.com/Aaliyakhan10/NoteHabit)
+Android Habit Tracker + Notes App  
+- Firebase Auth for secure login  
+- Sync with Firebase DB + offline Room DB storage  
+- Habit tracking with dynamic pie chart UI
 
-### NutriScan - Personalized Nutrition Advisor (Ongoing)  
-- Spring Boot, Java, OpenRouter API, MongoDB, REST APIs, Hugging Face, Supabase, React  
-- Collects users' personal & medical data to provide food suitability checks  
-- Allows image upload/Sacn of food products for ingredient detection  
-- Provides health risk warnings based on allergies or diseases
+### 🖼️ [AutoCap](https://github.com/Aaliyakhan10/auto-cap-frontend) • [Live Demo](https://autocapai.netlify.app/)
+AI Image Captioning Web App  
+- Upload images to generate short and long AI captions  
+- Built using React, Spring Boot (Java), Supabase, OpenRouter API
+
+### 🍎 NutriScan *(Ongoing)*  
+Personalized Nutrition Advisor  
+- Matches food data with user’s medical profile  
+- Warns about allergens or conflicts using AI  
+- Stack: Spring Boot, React, Hugging Face, Supabase, MongoDB, Tesseract.js
 
 ---
 
 ## 🎓 Education
 
-| Year       | Qualification                    | Institution                         |
-|------------|---------------------------------|-----------------------------------|
-| 2023–Present | B.E. Computer Science Engineering (Data Science specialization) | Lokmanya Tilak College of Engineering |
-
-
----
-
-## 📜 Certifications
-
-- Real Android App Development | Kotlin — DevX, Udemy (Sep 2024)  
-- MobDevOps+ Android 13 — Udemy (Sep 2024)  
+| Year         | Degree                                                   | Institution                              |
+|--------------|----------------------------------------------------------|------------------------------------------|
+| 2023–2027    | B.E. in Computer Science Engineering (Data Science)      | Lokmanya Tilak College of Engineering    |
 
 ---
 
-## 🌟 Achievements & Activities
+## 🌟 Achievements & Roles
 
-- Topped 1st and 2nd semesters  
-- Scored 10 CGPA in 4th semester  
-- Co-Technical Head, GFG Student Chapter – LTCE (2024–2025)  
-- Technical Team Member, DSSA – LTCE (2024–2025)  
-
----
-
-## 📈 GitHub Stats & Trophies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyakhan10&show_icons=true&layout=compact)  
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true&count_private=true&hide=prs)  
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10)  
-
+- 🏆 Topped 1st, 2nd, and 3rd semesters  
+- 🥇 10 CGPA in 4th semester  
+- 👩‍💼 Technical Head – DSSA LTCE (2025–2026)  
+- 🧑‍💻 Campus Mantri – GFG Campus body (2025–2026)  
+- 👩‍💻 Contributor – GirlScript Summer of Code 2025 (GSSoC '25)
 
 ---
 
-Thanks for stopping by! 🚀
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyakhan10&layout=compact&theme=github_dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaliyakhan10&show_icons=true&theme=github_dark&count_private=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaliyakhan10&theme=github-dark)
+
+---
+
+Thanks for stopping by! 🚀  
