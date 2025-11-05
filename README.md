@@ -25,10 +25,10 @@ Currently:
 
 ## 📫 Connect with Me
 
-- 📧 [aaliyakhan4352@gmail.com](mailto:aaliyakhan4352@gmail.com)  
+- 📧 [aaliyakhan4352@gmail.com](mailto:aaliyakhan4252@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaliyakhan01/)    
 - 🧠 [LeetCode](https://leetcode.com/u/cY8tVXDbor/)  
-- 🔗 [Portfolio (Projects Drive)](https://drive.google.com/drive/folders/1cQO_x0pV0jg-QfBj2ekrI250y5qpLt89)
+- 🔗 [Portfolio (Projects Drive)](https://drive.google.com/drive/folders/1Y0Oyh8Szjij2vm3eaL5xAvdAWTOakNUm)
 
 ---
 
@@ -50,48 +50,41 @@ Currently:
 
 ## 💻 Notable Projects
 
-### 🚀 [SiteSketch](https://drive.google.com/drive/folders/1cQO_x0pV0jg-QfBj2ekrI250y5qpLt89)
+###  [SiteSketch](https://drive.google.com/drive/folders/1cQO_x0pV0jg-QfBj2ekrI250y5qpLt89)
 AI-Powered Portfolio Generator  
 - Generates a full-fledged single-page portfolio from resume data  
 - Secure backend with JWT, OpenRouter API, MongoDB storage  
 - Built using Spring Boot (Kotlin), React, and Tailwind CSS
 
-### 📝 [NoteHabit](https://github.com/Aaliyakhan10/NoteHabit)
+###  [NoteHabit](https://github.com/Aaliyakhan10/NoteHabit)
 Android Habit Tracker + Notes App  
 - Firebase Auth for secure login  
 - Sync with Firebase DB + offline Room DB storage  
 - Habit tracking with dynamic pie chart UI
 
-### 🖼️ [AutoCap](https://github.com/Aaliyakhan10/auto-cap-frontend) • [Live Demo](https://autocapai.netlify.app/)
+###  NutriScan 
+Personalized Nutrition Advisor  
+  - Matches food data with user’s medical profile using AI
+  
+  - Warns about allergens or medical conflicts in real time
+  
+  - Displays calorie content, safety status, personalized recommendations, and notes based on user needs
+  - Stack: Spring Boot, React, Open router, Supabase, MongoDB, Tesseract.js
+
+###  [AutoCap](https://github.com/Aaliyakhan10/auto-cap-frontend) • [Live Demo](https://autocapai.netlify.app/)
 AI Image Captioning Web App  
-- Upload images to generate short and long AI captions  
+- Upload images to generate short and long AI captions
 - Built using React, Spring Boot (Java), Supabase, OpenRouter API
 
-### 🍎 NutriScan *(Ongoing)*  
-Personalized Nutrition Advisor  
-- Matches food data with user’s medical profile  
-- Warns about allergens or conflicts using AI  
-- Stack: Spring Boot, React, Hugging Face, Supabase, MongoDB, Tesseract.js
+###  [SpeakWise– Communication Feedback App](https://github.com/Aaliyakhan10/SpeakWise-backend) . [Live Demo](https://github.com/Aaliyakhan10/SpeakWise-backend)
+• Real-time web app analyzing speech for feedback on communication skills.
+
+ • REST APIs built with Spring Boot; responsive React.js frontend.
+
+
 
 ---
 
-## 🎓 Education
-
-| Year         | Degree                                                   | Institution                              |
-|--------------|----------------------------------------------------------|------------------------------------------|
-| 2023–2027    | B.E. in Computer Science Engineering (Data Science)      | Lokmanya Tilak College of Engineering    |
-
----
-
-## 🌟 Achievements & Roles
-
-- 🏆 Topped 1st, 2nd, and 3rd semesters  
-- 🥇 10 CGPA in 4th semester  
-- 👩‍💼 Technical Head – DSSA LTCE (2025–2026)  
-- 🧑‍💻 Campus Mantri – GFG Campus body (2025–2026)  
-- 👩‍💻 Contributor – GirlScript Summer of Code 2025 (GSSoC '25)
-
----
 
 ## 📊 GitHub Stats
 
